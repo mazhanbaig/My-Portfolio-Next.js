@@ -124,7 +124,7 @@ const Navbar = () => {
           </h1>
 
           {/* Desktop Menu */}
-          <div className="hidden md:flex space-x-6 text-sm font-medium">
+          <div className="hidden md:flex space-x-2 text-sm font-medium">
             {["Home", "About", "Skill", "Education", "Projects", "Contact"].map(
               (item, index) => (
                 <a
