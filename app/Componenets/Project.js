@@ -84,7 +84,7 @@ const Project = () => {
               <span className="bg-gray-700 px-2 py-1 rounded">JavaScript</span>
             </div>
             <a
-              href="https://azhansbarbershop.netlify.app/"
+              href="https://azhansbarbershop.netlify.app"
               target="_blank"
               className="text-pink-400 hover:underline"
             >

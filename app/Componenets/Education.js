@@ -22,8 +22,8 @@ const Education = () => {
             Army Public School COD
           </p>
           <ul className="text-gray-300 text-sm space-y-1 mt-4 pl-4 list-disc">
-            <li>SSC I: 94%</li>
-            <li>SSC II: 89%</li>
+            <li>SSC I: 89%</li>
+            <li>SSC II: 94%</li>
             <li>Strong foundation in tech & academics</li>
           </ul>
         </div>
@@ -42,7 +42,7 @@ const Education = () => {
           <ul className="text-gray-300 text-sm space-y-1 mt-4 pl-4 list-disc">
             <li>1st Year: 90%+ (Est.)</li>
             <li>2nd Year: 90%+ (Est.)</li>
-            <li>Deep focus on front-end growth</li>
+            <li>Deep focus on Full-Stack growth</li>
           </ul>
         </div>
 
@@ -55,12 +55,12 @@ const Education = () => {
             University (Planned)
           </h3>
           <p className="text-sm text-center text-gray-400 mb-2">
-            Computer Science
+            Master in AI
           </p>
           <ul className="text-gray-300 text-sm space-y-1 mt-4 pl-4 list-disc">
-            <li>Mastering React & Next.js</li>
+            <li>Mastering In AI & Robotics</li>
             <li>Contributing to open-source</li>
-            <li>Building futuristic web projects</li>
+            <li>Building futuristic projects</li>
           </ul>
         </div>
       </div>

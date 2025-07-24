@@ -21,9 +21,9 @@ const Intro = () => {
         <div className="max-w-[550px]">
           <h2 className="text-4xl font-bold mb-4 text-white">Hi, I'm Azhan</h2>
           <p className="text-xl text-white mb-6">
-            I'm a passionate Front-End Web Developer focused on building
-            responsive and user-friendly websites using HTML, CSS, JavaScript,
-            Tailwind CSS and React (Next.js).
+            I'm a passionate Full-Stack Web and App Developer focused on building
+            responsive and user-friendly websites and softwares using HTML, CSS, JavaScript,
+            Tailwind CSS, React (Next.js),Node.js, Express.js, MangoDB and React Native.
           </p>
           <div className="flex justify-center gap-6 flex-wrap">
             <button className="animate-pulse bg-white text-black hover:bg-yellow-700 hover:text-white px-4 py-2 rounded-xl">

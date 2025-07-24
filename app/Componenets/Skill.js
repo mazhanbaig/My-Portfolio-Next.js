@@ -85,6 +85,65 @@ const Skill = () => {
               <div class="bg-gradient-to-r from-gray-300 to-gray-500 h-3 rounded w-[65%]"></div>
             </div>
           </div>
+          {/* <!-- Node.js --> */}
+<div className="space-y-2">
+  <div className="flex items-center justify-between">
+    <p className="flex items-center gap-2 text-lg font-medium">
+      <i className="fab fa-node-js text-green-500 text-2xl"></i> Node.js
+      <span className="text-sm">(Learning)</span>
+    </p>
+    <span className="text-sm text-gray-300">10%</span>
+  </div>
+  <div className="w-full bg-gray-700 h-3 rounded overflow-hidden">
+    <div className="bg-gradient-to-r from-green-400 to-lime-500 h-3 rounded w-[10%]"></div>
+  </div>
+</div>
+
+{/* <!-- Express.js --> */}
+<div className="space-y-2">
+  <div className="flex items-center justify-between">
+    <p className="flex items-center gap-2 text-lg font-medium">
+      <i className="fas fa-server text-gray-300 text-2xl"></i> Express.js
+            <span className="text-sm">(Learning)</span>
+
+    </p>
+    <span className="text-sm text-gray-300">10%</span>
+  </div>
+  <div className="w-full bg-gray-700 h-3 rounded overflow-hidden">
+    <div className="bg-gradient-to-r from-gray-400 to-gray-600 h-3 rounded w-[10%]"></div>
+  </div>
+</div>
+
+{/* <!-- MongoDB --> */}
+<div className="space-y-2">
+  <div className="flex items-center justify-between">
+    <p className="flex items-center gap-2 text-lg font-medium">
+      <i className="fas fa-database text-green-400 text-2xl"></i> MongoDB
+            <span className="text-sm">(Learning)</span>
+
+    </p>
+    <span className="text-sm text-gray-300">10%</span>
+  </div>
+  <div className="w-full bg-gray-700 h-3 rounded overflow-hidden">
+    <div className="bg-gradient-to-r from-green-300 to-emerald-600 h-3 rounded w-[10%]"></div>
+  </div>
+</div>
+
+{/* <!-- React Native --> */}
+<div className="space-y-2">
+  <div className="flex items-center justify-between">
+    <p className="flex items-center gap-2 text-lg font-medium">
+      <i className="fab fa-react text-blue-300 text-2xl"></i> React Native
+            <span className="text-sm">(Learning)</span>
+
+    </p>
+    <span className="text-sm text-gray-300">10%</span>
+  </div>
+  <div className="w-full bg-gray-700 h-3 rounded overflow-hidden">
+    <div className="bg-gradient-to-r from-blue-400 to-indigo-500 h-3 rounded w-[10%]"></div>
+  </div>
+</div>
+
         </div>
       </section>
     </>

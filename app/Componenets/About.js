@@ -21,10 +21,10 @@ const About = () => {
                   Who I Am
                 </h2>
                 <p className="text-lg leading-relaxed">
-                  I’m Azhan, a passionate Front-End Web Developer who loves
+                  I’m Azhan, a passionate Full=Stack Web and App Developer who loves
                   building intuitive and visually compelling digital
                   experiences. I enjoy turning ideas into interactive interfaces
-                  using HTML, CSS, JavaScript, and Tailwind CSS.
+                  using HTML, CSS, JavaScript, and Tailwind CSS, React (Next.js), Node.js, Express.js, MangoDB and React Native.
                 </p>
               </div>
               <div>
@@ -32,7 +32,7 @@ const About = () => {
                   My Mission
                 </h2>
                 <p className="text-lg leading-relaxed">
-                  My goal is to design clean, functional websites that offer
+                  My goal is to design clean and functional Softwares that offer
                   users an enjoyable and seamless experience. I’m deeply focused
                   on creating projects that are both user-friendly and
                   performance-oriented.
@@ -54,7 +54,7 @@ const About = () => {
                 </h2>
                 <p className="text-lg leading-relaxed">
                   I regularly sharpen my skills through platforms like
-                  freeCodeCamp, YouTube tutorials, and by building real-world
+                 YouTube tutorials, and by building real-world
                   projects. Growth is a journey, and I’m committed to learning
                   something new every day.
                 </p>
@@ -64,9 +64,7 @@ const About = () => {
                   Future Goals
                 </h2>
                 <p className="text-lg leading-relaxed">
-                  I plan to learn JavaScript frameworks like React, contribute
-                  to open-source, and collaborate with other developers to solve
-                  meaningful problems through code.
+                  I aspire to master the field of Artificial Intelligence and build intelligent, real-world solutions. Along the way, I aim to deepen my skills in JavaScript frameworks like React, contribute to open-source projects, and collaborate with developers to create meaningful, impactful technology.
                 </p>
               </div>
             </div>
