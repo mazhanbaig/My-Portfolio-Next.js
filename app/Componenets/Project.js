@@ -105,8 +105,8 @@ const Project = () => {
           </div>
 
           {/* 🎟️ Booking Web App */}
-          <div className="bg-white/5 border-2 border-emerald-700 rounded-2xl p-6 backdrop-blur-md shadow-lg hover:scale-105 transition duration-300">
-            <h3 className="text-xl font-bold mb-2 text-blue-400">
+          <div className="bg-white/5 border-[3px] border-emerald-800 rounded-2xl p-6 backdrop-blur-md shadow-lg hover:scale-105 transition duration-300">
+            <h3 className="text-xl font-bold mb-2 text-emerald-800">
               Ticket Booking App
             </h3>
             <p className="text-sm text-gray-300 mb-4">
@@ -121,7 +121,7 @@ const Project = () => {
             <a
               href="https://azhancashierapp.netlify.app/"
               target="_blank"
-              className="text-blue-300 hover:underline hover:text-blue-200"
+              className="text-emerald-800 hover:underline hover:text-emerald-600"
             >
               Live Demo
             </a>
