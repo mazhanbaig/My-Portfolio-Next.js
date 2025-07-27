@@ -105,7 +105,7 @@ const Project = () => {
           </div>
 
           {/* 🎟️ Booking Web App */}
-          <div className="bg-white/5 border border-emerald-900 rounded-2xl p-6 backdrop-blur-md shadow-lg hover:scale-105 transition duration-300">
+          <div className="bg-white/5 border-2 border-emerald-700 rounded-2xl p-6 backdrop-blur-md shadow-lg hover:scale-105 transition duration-300">
             <h3 className="text-xl font-bold mb-2 text-blue-400">
               Ticket Booking App
             </h3>
