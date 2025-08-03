@@ -3,7 +3,7 @@ import React, { useRef } from "react";
 const projects = [
   {
     title: "AZHAN Movies",
-    desc: `A futuristic Netflix-style movie site using TMDB API.`,
+    desc: `A futuristic Netflix-style movie hub made using JavaScript and TMDB API.`,
     tech: ["HTML", "Tailwind", "JS", "TMDB API"],
     link: "https://cinexverse.netlify.app/",
     image: "../images/3.png", // sci-fi UI
@@ -16,27 +16,27 @@ const projects = [
 image: "../images/4.png",  },
   {
     title: "Weather Fetch App",
-    desc: `Live weather checker using OpenWeatherMap API.`,
+    desc: `Live weather checker made using JavaScript and OpenWeatherMap API.`,
     tech: ["HTML", "Tailwind", "JS", "OpenWeather"],
     link: "https://predatorsweather.netlify.app/",
 image: "../images/6.png", 
  },
   {
     title: "Barber Shop Website",
-    desc: `Modern barber site with gallery and contact form.`,
+    desc: `Modern barber site with home page, about, pricing, history and contact page.`,
     tech: ["HTML", "Tailwind", "JS"],
     link: "https://azhansbarbershop.netlify.app",
 image: "../images/1.png",  },
   {
     title: "My Portfolio",
-    desc: `A sleek portfolio built with Next.js & Tailwind CSS.`,
+    desc: `A sleek portfolio built with JavaScript, Next.js & Tailwind CSS.`,
     tech: ["HTML", "Tailwind", "React", "Next.js"],
     link: "https://mazhanbaig7.netlify.app/",
 image: "../images/2.png",  },
   {
     title: "Ticket Booking App",
     desc: `Responsive system for booking with localStorage.`,
-    tech: ["HTML", "Tailwind", "JS"],
+    tech: ["HTML", "Tailwind", "JS", "TS"],
     link: "https://azhancashierapp.netlify.app/",
 image: "../images/5.png",  },
 ];
