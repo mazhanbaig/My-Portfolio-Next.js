@@ -6,39 +6,39 @@ const projects = [
     desc: `A futuristic Netflix-style movie site using TMDB API.`,
     tech: ["HTML", "Tailwind", "JS", "TMDB API"],
     link: "https://cinexverse.netlify.app/",
-    image: "../images/1.png", // sci-fi UI
+    image: "../images/3.png", // sci-fi UI
   },
   {
     title: "Call Manager – Task Manager",
     desc: "A robotic task & call log manager in a sci-fi interface.",
     tech: ["Tailwind CSS", "JavaScript", "HTML", "DOM"],
     link: "https://neoversetaskmanager.netlify.app/",
-image: "../images/2.png",  },
+image: "../images/4.png",  },
   {
     title: "Weather Fetch App",
     desc: `Live weather checker using OpenWeatherMap API.`,
     tech: ["HTML", "Tailwind", "JS", "OpenWeather"],
     link: "https://predatorsweather.netlify.app/",
-image: "../images/3.png", 
+image: "../images/6.png", 
  },
   {
     title: "Barber Shop Website",
     desc: `Modern barber site with gallery and contact form.`,
     tech: ["HTML", "Tailwind", "JS"],
     link: "https://azhansbarbershop.netlify.app",
-image: "../images/4.png",  },
+image: "../images/1.png",  },
   {
     title: "My Portfolio",
     desc: `A sleek portfolio built with Next.js & Tailwind CSS.`,
     tech: ["HTML", "Tailwind", "React", "Next.js"],
     link: "https://mazhanbaig7.netlify.app/",
-image: "../images/5.png",  },
+image: "../images/2.png",  },
   {
     title: "Ticket Booking App",
     desc: `Responsive system for booking with localStorage.`,
     tech: ["HTML", "Tailwind", "JS"],
     link: "https://azhancashierapp.netlify.app/",
-image: "../images/6.png",  },
+image: "../images/5.png",  },
 ];
 
 const Project = () => {
