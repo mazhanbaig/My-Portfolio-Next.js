@@ -8,7 +8,7 @@ const Intro = () => {
       <section
         id="intro"
         className="pt-[100px] min-h-[750px] w-full bg-cover bg-center bg-fixed px-4 flex flex-col items-center justify-center text-center gap-6 sm:flex-row sm:justify-around"
-        style={{ backgroundImage: "url('/images/first-image.jpg')" }}
+        style={{ backgroundImage: "url('/images/hero.jpg')" }}
       >
         {/* Image on Top (mobile) */}
         <img
